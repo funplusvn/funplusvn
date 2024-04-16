@@ -1,16 +1,15 @@
-### Hi there 👋
+### Funplus
 
-<!--
-**funplusvn/funplusvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Funplus - Kênh Thông Tin Giải Trí, Thư Giãn Đa Dạng
 
-Here are some ideas to get you started:
+Đến với Funlus.vn bạn sẽ được trải nghiệm không gian giải trí, thư giãn, tin tức cập nhật mới nhất nhanh nhất phục vụ nhu cầu đa dạng của mỗi người.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Địa chỉ: Thanh Xuân, Hà Nội
+
+https://funplus.vn/
+
+https://www.pinterest.com/funplusvn/
+
+https://vimeo.com/funplusvn
+
+https://www.youtube.com/channel/UCzU3u_UgoMBSqaL8mnbicHA
